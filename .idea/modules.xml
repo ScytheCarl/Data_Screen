@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/data_screen.iml" filepath="$PROJECT_DIR$/data_screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_server/data_server.iml" filepath="$PROJECT_DIR$/data_server/data_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink0316/flink0316.iml" filepath="$PROJECT_DIR$/flink0316/flink0316.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generate_data/generate_data.iml" filepath="$PROJECT_DIR$/generate_data/generate_data.iml" />
+    </modules>
+  </component>
+</project>

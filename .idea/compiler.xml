@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="data_server" />
+        <module name="flink0316" />
+        <module name="generate_data" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="data_screen" target="1.5" />
+      <module name="data_server" target="1.8" />
+      <module name="flink0316" target="7" />
+      <module name="generate_data" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
